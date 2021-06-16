@@ -10,6 +10,6 @@ The algorithms used are:-
 To run this in your device:
 1) Make sure you have Python along with all the imported libraries installed.
 2) To input your own wav file, Replace the line in code
-   `f = we.open("test_noise.wav", 'rb')` with `f = we.open("your_file_name.wav", 'rb')`
+   `f = we.open("test_noise.wav", 'rb')` with            `f = we.open("your_file_name.wav", 'rb')`
 3) Run the python file using terminal or any other IDE (spyder, VS Code, etc)
 4) The output wav file will be saved in the same folder which has your python file. 
